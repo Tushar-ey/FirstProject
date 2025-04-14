@@ -1,7 +1,6 @@
 package org.example.model;
 
 public class User {
-    // create getter and setter and add common fields
 
     private String name;
     private String email;
@@ -9,7 +8,7 @@ public class User {
     private String phone;
     private String address;
 
-    //geeter  and setter
+    //getter  and setter
     public String getName() {
         return name;
     }
@@ -71,4 +70,3 @@ public class User {
 
     }
 }
-
