@@ -40,6 +40,7 @@ public class Main {
         map1.put("two", 2);
         map1.put("three", 3);
         map1.put("four", 4);
+        map1.put("five", 5);
 
         for (Map.Entry<String, Integer> entry : map.entrySet()) {
             System.out.println(entry.getKey() + " " + entry.getValue());
