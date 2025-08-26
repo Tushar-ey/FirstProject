@@ -58,6 +58,10 @@ public class Main {
         System.out.println(resultedMap);
 
         System.out.println("-------------------------------------------------");
+        System.out.println("===============================================");
+        System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++");
+        System.out.println("--------------------------------------------------");
+        System.out.println("**************************************************");
 
 //       for (Map.Entry<String, Integer> entry : map.entrySet()) {
 //            String key = entry.getKey();
