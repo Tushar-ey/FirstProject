@@ -121,6 +121,10 @@ public class Main {
         System.out.println(resultedMap);
 
         System.out.println("-------------------------------------------------");
+        System.out.println("===============================================");
+        System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++");
+        System.out.println("--------------------------------------------------");
+        System.out.println("**************************************************");
 
         //List of Map of Map
       //  List<Map<String, Integer>> listOfMap = Arrays.asList(map, map1);
