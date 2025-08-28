@@ -160,6 +160,8 @@ public class Main {
         }
         System.out.println(copyList);
 
+        System.out.println("Go Ahead");
+
  //--------------------------------------Fail-Fast iterator------------------------------------------
         List<Integer> lists = Arrays.asList(1,2,3);
         for(Integer list9:lists) {
