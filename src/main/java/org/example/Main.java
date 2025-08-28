@@ -3,7 +3,6 @@ package org.example;
 
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.function.BiFunction;
 import java.util.stream.Collectors;
 
 public class Main {
@@ -170,6 +169,10 @@ public class Main {
             lists.add(4);
         }
         System.out.println(lists);
+
+        System.out.println("I am in the world");
     }
+
+
 
     }
